@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python e Java;
 - 💞️ I’m looking to collaborate on to develop;
 - 📫 How to reach me linkedin.com/in/greice-bianca-oliveira-b420aa243 ;
-- 😄 Pronouns: "I"
+- 😄 Pronouns: "She"
 - ⚡ Fun fact: Beginner in the IT area, seeking new knowledge and experiences.
 
 <!---
