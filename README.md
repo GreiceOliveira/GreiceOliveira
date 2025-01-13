@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreiceOliveira
 - 👀 I’m interested in Systems Analysis and Development;
-- 🌱 I’m currently learning Python, JavaJavaScript (pode manipular HTML e CSS dinamicamente), Java,
+- 🌱 I’m currently learning Python, JavaScript (pode manipular HTML e CSS dinamicamente), Java,
 C/C++ ;
 - 📫 How to reach me linkedin.com/in/greice-bianca-oliveira-b420aa243 ;
 - 😄 Pronouns: "She"
